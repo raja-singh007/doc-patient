@@ -1,0 +1,25 @@
+{
+  "name": "doctor-patient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raja-singh007/doc-patient.git"
+  },
+  "author": "rudra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raja-singh007/doc-patient/issues"
+  },
+  "homepage": "https://github.com/raja-singh007/doc-patient#readme",
+  "dependencies": {
+    "cars": "^1.1.6",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.1"
+  }
+}
